@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sarahi
 middle_name:
 last_name: Ramos
-contact_note: >
-  No one can reach me, muahahahah
+contact_note: #> No one can reach me, muahahahah
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website
 footer_text: >
@@ -87,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Sarahi R. # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: a simple academic blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -201,6 +200,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/cv.md
+  - _pages/people.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
