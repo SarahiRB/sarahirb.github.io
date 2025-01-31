@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-high-dimensions-ruining-the-fun",
       
-        title: "a post with image galleries",
+        title: "high dimensions ruining the fun",
       
-      description: "this is what included image galleries could look like",
+      description: "In high dimensions they won&#39;t hear ya scream.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2025/high-dimensions/";
         
       },
     },{id: "news-a-simple-inline-announcement",
