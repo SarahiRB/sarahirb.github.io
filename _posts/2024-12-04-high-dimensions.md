@@ -19,7 +19,7 @@ Well, here's a square with a circle inside.
     </div>
 </div>
 <div class="caption">
-    This is a 2-dimensional space, if you were fill it with 20 points most of them would land inside the circle.
+    This is a 2-dimensional space, if you filled it with 20 points most of them would land inside the circle.
 </div>
 
 Now here's a cube with a sphere inside.
